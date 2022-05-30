@@ -1,0 +1,8 @@
+img{
+    height: 180px;
+    width: 160px;
+}
+#cart{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
